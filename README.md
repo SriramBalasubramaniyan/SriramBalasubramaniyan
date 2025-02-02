@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **srirambalasubramaniyan.b@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/16w_Je3DhiV-7_vsDbqKfxiMyze3KKG51?usp=drive_link](https://drive.google.com/drive/folders/16w_Je3DhiV-7_vsDbqKfxiMyze3KKG51?usp=drive_link)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
