@@ -3,7 +3,7 @@
 <p><strong>Flutter Developer &nbsp;·&nbsp; Python Backend &nbsp;·&nbsp; ML / RAG Enthusiast</strong><br/>
 Building real-world apps at the intersection of mobile, AI, and data.</p>
 
-<p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/RAG-6C3FC4?style=flat" />&nbsp;<img src="https://img.shields.io/badge/ML-FFFFFF?style=flat" />&nbsp;<img src="https://img.shields.io/badge/AI-FF0000?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></p>
+<p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/RAG-6C3FC4?style=flat" />&nbsp;<img src="https://img.shields.io/badge/ML-FFFFFF?style=flat" />&nbsp;<img src="https://img.shields.io/badge/AI-FF0000?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></p>
 
 ---
 
