@@ -23,8 +23,4 @@ Building real-world apps at the intersection of mobile, AI, and data.</p>
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" height="40" />&nbsp;<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" />&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40" />&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" /></p>
 
-**AI / ML**
-
-<p><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="gemini" height="30" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" height="30" />&nbsp;<img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=for-the-badge&logoColor=white" height="30" />&nbsp;<img src="https://img.shields.io/badge/RAG-6C3FC4?style=for-the-badge" height="30" />&nbsp;<img src="https://img.shields.io/badge/KNN%20%7C%20Regression-2563EB?style=for-the-badge" height="30" /></p>
-
 <p align="center"><sub>// always building · always learning</sub></p>
