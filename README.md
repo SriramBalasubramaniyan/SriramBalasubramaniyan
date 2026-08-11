@@ -44,4 +44,4 @@
 
 <hr/>
 
-<p align="center"><sub>// always building · always learning</sub></p>
+<p align="center"><sub>always building · always learning</sub></p>
